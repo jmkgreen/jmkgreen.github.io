@@ -24,7 +24,7 @@ github_username:  jmkgreen
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
