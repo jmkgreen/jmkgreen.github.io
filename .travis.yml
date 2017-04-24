@@ -1,6 +1,7 @@
 language: ruby
 rvm:
   2.2
+before_install: gem install bundler
 deploy:
   provider: pages
   skip_cleanup: true
